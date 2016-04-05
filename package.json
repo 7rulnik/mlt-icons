@@ -1,0 +1,20 @@
+{
+  "name": "mlt-icons",
+  "version": "1.0.0",
+  "description": "Icons for MLT project",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/7rulnik/mlt-icons.git"
+  },
+  "keywords": [
+    "MLT",
+    "icons",
+    "svg"
+  ],
+  "author": "Valentin Semirulnik <v7rulnik@gmail.com>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/7rulnik/mlt-icons/issues"
+  },
+  "homepage": "https://github.com/7rulnik/mlt-icons#readme"
+}

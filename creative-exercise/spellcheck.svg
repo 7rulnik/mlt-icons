@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="25px" height="24px" viewBox="0 0 25 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons / icon_spellcheck</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Styles" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-120.000000, -20.000000)" fill="#279CC4">
+            <g id="Icons-/-icon_spellcheck" transform="translate(120.000000, 20.000000)">
+                <path d="M23.2915718,10.5576923 L25,12.2884615 L13.4396355,24 L7.28929385,17.7115385 L8.9977221,15.9807692 L13.4396355,20.5384615 L23.2915718,10.5576923 Z M4.8405467,9.86538462 L9.85193622,9.86538462 L7.34624146,3.05769231 L4.8405467,9.86538462 Z M12.1867882,15.9807692 L10.7630979,12.2884615 L3.92938497,12.2884615 L2.56264237,15.9807692 L0,15.9807692 L6.20728929,0 L8.48519362,0 L14.6924829,15.9807692 L12.1867882,15.9807692 Z" id="icon_spellcheck"></path>
+            </g>
+        </g>
+    </g>
+</svg>

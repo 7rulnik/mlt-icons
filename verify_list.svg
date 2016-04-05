@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="36px" height="34px" viewBox="0 0 36 34" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>svg_icon_verify_gray</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Styles" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-256.000000, -20.000000)" fill="#B3B3B3">
+            <g id="Icons-/-svg_icon_verify_gray" transform="translate(256.000000, 20.000000)">
+                <path d="M6,13 L10,13 L10,17 L6,17 L6,13 L6,13 Z M7,14 L9,14 L9,16 L7,16 L7,14 L7,14 Z M28,18 C30.2034533,18 32.0876301,18.7824658 33.6525834,20.3474166 C35.2175342,21.9123699 36,23.7965467 36,26 C36,28.2034533 35.2175342,30.0876301 33.6525834,31.6525822 C32.0876301,33.2175352 30.2034533,34 28,34 C25.7965467,34 23.9123699,33.2175352 22.3474178,31.6525822 C20.7824648,30.0876301 20,28.2034533 20,26 C20,23.7965467 20.7824648,21.9123699 22.3474178,20.3474166 C23.9123699,18.7824658 25.7965467,18 28,18 L28,18 Z M26.557047,30 L33,23.9730942 L31.9932886,23 L26.557047,28.0852018 L24.0067114,25.6995516 L23,26.6412556 L26.557047,30 L26.557047,30 Z M12,14 L26,14 L26,16 L12,16 L12,14 L12,14 Z M32,0 L0,0 L0,30 L18,30 L18,28 L2,28 L2,8 L30,8 L30,16 L32,16 L32,0 L32,0 Z M12,20 L18,20 L18,22 L12,22 L12,20 L12,20 Z M6,19 L10,19 L10,23 L6,23 L6,19 L6,19 Z M7,20 L9,20 L9,22 L7,22 L7,20 L7,20 Z" id="svg_icon_verify_gray"></path>
+            </g>
+        </g>
+    </g>
+</svg>

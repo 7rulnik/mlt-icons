@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="12px" height="30px" viewBox="0 0 12 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:sketch="http://www.bohemiancoding.com/sketch/ns">
+    <!-- Generator: Sketch Beta 3.4.1 (15680) - http://www.bohemiancoding.com/sketch -->
+    <title>Move icon</title>
+    <desc>Created with Sketch Beta.</desc>
+    <defs></defs>
+    <g id="Assets" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" sketch:type="MSPage">
+        <g id="Artboard-1" sketch:type="MSArtboardGroup" transform="translate(-2040.000000, -1431.000000)" fill="#000000">
+            <path d="M2045,1440 L2047,1440 L2047,1442 L2045,1442 L2045,1440 L2045,1440 Z M2045,1445 L2047,1445 L2047,1447 L2045,1447 L2045,1445 L2045,1445 Z M2045,1450 L2047,1450 L2047,1452 L2045,1452 L2045,1450 L2045,1450 Z M2050.60742,1454 L2045.875,1458.70253 L2041.14258,1454 L2040,1455.13924 L2045.875,1461 L2051.75,1455.13924 L2050.60742,1454 L2050.60742,1454 Z M2041.16689,1438 L2046,1433.29747 L2050.83311,1438 L2052,1436.86076 L2046,1431 L2040,1436.86076 L2041.16689,1438 L2041.16689,1438 Z" id="Move-icon" sketch:type="MSShapeGroup"></path>
+        </g>
+    </g>
+</svg>

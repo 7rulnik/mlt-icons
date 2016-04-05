@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="13px" height="17px" viewBox="0 0 13 17" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons / icon_trash</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Styles" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Icons" transform="translate(-165.000000, -20.000000)" fill="#279CC4">
+            <g id="Icons-/-icon_trash" transform="translate(165.000000, 20.000000)">
+                <path d="M1,4 L12,4 L12,14.9972399 C12,16.1033337 11.0998238,17 10.007983,17 L2.99201702,17 C1.8918564,17 1,16.1064574 1,14.9972399 L1,4 Z M0,1 L13,1 L13,3 L0,3 L0,1 Z M5,0 L8,0 L8,1 L5,1 L5,0 Z M3,6 L4,6 L4,15 L3,15 L3,6 Z M6,6 L7,6 L7,15 L6,15 L6,6 Z M9,6 L10,6 L10,15 L9,15 L9,6 Z" id="icon_trash"></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="20px" height="24px" viewBox="0 0 20 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.6.1 (26313) - http://www.bohemiancoding.com/sketch -->
+    <title>Icons/Results</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Progress-V2" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Assets" transform="translate(-621.000000, -490.000000)" fill="#000000">
+            <path d="M628.760417,506.340426 L638.760417,496.53617 L637.197917,495.004255 L628.760417,503.276596 L624.802083,499.395745 L623.239583,500.92766 L628.760417,506.340426 Z M638.760417,490 C639.350697,490 639.871527,490.221276 640.322917,490.66383 C640.774307,491.106384 641,491.617019 641,492.195745 L641,506.289362 C641,507.004259 640.670143,507.599998 640.010417,508.076596 L631,514 L621.989583,508.076596 C621.329858,507.599998 621,507.004259 621,506.289362 L621,492.195745 C621,491.617019 621.225692,491.106384 621.677083,490.66383 C622.128474,490.221276 622.649303,490 623.239583,490 L638.760417,490 Z" id="Icons/Results"></path>
+        </g>
+    </g>
+</svg>
